@@ -1,0 +1,11 @@
+streamlit>=1.48
+plotly>=6
+pandas>=2.2
+numpy
+scipy
+scikit-learn
+openpyxl
+pyarrow
+nbformat
+nbclient
+ipykernel
